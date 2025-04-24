@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions!")
+print("ربات با موفقیت اجرا شد!")
